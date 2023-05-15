@@ -12,7 +12,7 @@ let c;
 a+b= ${a + b}
 
 `;
-
+alert(output);
 /*
 a + b
 a - b
